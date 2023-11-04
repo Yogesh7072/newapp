@@ -6,7 +6,11 @@ chate
 chate
 s
 
+<<<<<<< HEAD
+this is chage for yogeshwar
+=======
 this is change for yoga
+>>>>>>> 6b61810f62158560c972d0a726b8fa419d40f13d
 hello yogeshwar
 
  h hello
