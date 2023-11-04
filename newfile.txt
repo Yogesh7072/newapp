@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello yogeshwar
+=======
+ h hello
+hilll
+
+>>>>>>> c5eff40750d7307953136815ac513ef671d619cf
 hello this isfile
